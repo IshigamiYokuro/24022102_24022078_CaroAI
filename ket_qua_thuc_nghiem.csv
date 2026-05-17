@@ -1,0 +1,55 @@
+﻿trang_thai,do_sau,thuat_toan,nuoc_di,gia_tri,so_trang_thai_da_xet,thoi_gian_giay
+Dau van - ban co rong,1,Minimax,"(5,5)",160,2,0.000293
+Dau van - ban co rong,1,Alpha-Beta,"(5,5)",160,2,0.000296
+Dau van - ban co rong,1,So sanh,"MM (5,5) | AB (5,5)",MM 160 | AB 160,giam 0.00%,
+Dau van - ban co rong,2,Minimax,"(5,5)",-26,14,0.003467
+Dau van - ban co rong,2,Alpha-Beta,"(5,5)",-26,14,0.003397
+Dau van - ban co rong,2,So sanh,"MM (5,5) | AB (5,5)",MM -26 | AB -26,giam 0.00%,
+Dau van - ban co rong,3,Minimax,"(5,5)",680,158,0.042597
+Dau van - ban co rong,3,Alpha-Beta,"(5,5)",680,41,0.009527
+Dau van - ban co rong,3,So sanh,"MM (5,5) | AB (5,5)",MM 680 | AB 680,giam 74.05%,
+Giua van - hai ben da co nhieu quan,1,Minimax,"(2,5)",10000000,13,0.003665
+Giua van - hai ben da co nhieu quan,1,Alpha-Beta,"(2,5)",10000000,13,0.003601
+Giua van - hai ben da co nhieu quan,1,So sanh,"MM (2,5) | AB (2,5)",MM 10000000 | AB 10000000,giam 0.00%,
+Giua van - hai ben da co nhieu quan,2,Minimax,"(2,5)",10000001,145,0.043437
+Giua van - hai ben da co nhieu quan,2,Alpha-Beta,"(2,5)",10000001,24,0.006607
+Giua van - hai ben da co nhieu quan,2,So sanh,"MM (2,5) | AB (2,5)",MM 10000001 | AB 10000001,giam 83.45%,
+Giua van - hai ben da co nhieu quan,3,Minimax,"(2,5)",10000002,1729,0.462435
+Giua van - hai ben da co nhieu quan,3,Alpha-Beta,"(2,5)",10000002,156,0.043194
+Giua van - hai ben da co nhieu quan,3,So sanh,"MM (2,5) | AB (2,5)",MM 10000002 | AB 10000002,giam 90.98%,
+May co the thang ngay,1,Minimax,"(5,6)",10000000,13,0.003186
+May co the thang ngay,1,Alpha-Beta,"(5,6)",10000000,13,0.003112
+May co the thang ngay,1,So sanh,"MM (5,6) | AB (5,6)",MM 10000000 | AB 10000000,giam 0.00%,
+May co the thang ngay,2,Minimax,"(5,6)",10000001,133,0.036756
+May co the thang ngay,2,Alpha-Beta,"(5,6)",10000001,23,0.005796
+May co the thang ngay,2,So sanh,"MM (5,6) | AB (5,6)",MM 10000001 | AB 10000001,giam 82.71%,
+May co the thang ngay,3,Minimax,"(5,6)",10000002,1573,0.411422
+May co the thang ngay,3,Alpha-Beta,"(5,6)",10000002,143,0.039695
+May co the thang ngay,3,So sanh,"MM (5,6) | AB (5,6)",MM 10000002 | AB 10000002,giam 90.91%,
+Nguoi sap thang - may can chan,1,Minimax,"(4,6)",4744,13,0.004156
+Nguoi sap thang - may can chan,1,Alpha-Beta,"(4,6)",4744,13,0.003781
+Nguoi sap thang - may can chan,1,So sanh,"MM (4,6) | AB (4,6)",MM 4744 | AB 4744,giam 0.00%,
+Nguoi sap thang - may can chan,2,Minimax,"(4,6)",-10000000,157,0.039965
+Nguoi sap thang - may can chan,2,Alpha-Beta,"(4,6)",-10000000,37,0.006963
+Nguoi sap thang - may can chan,2,So sanh,"MM (4,6) | AB (4,6)",MM -10000000 | AB -10000000,giam 76.43%,
+Nguoi sap thang - may can chan,3,Minimax,"(4,6)",-10000001,1621,0.463402
+Nguoi sap thang - may can chan,3,Alpha-Beta,"(4,6)",-10000001,71,0.013021
+Nguoi sap thang - may can chan,3,So sanh,"MM (4,6) | AB (4,6)",MM -10000001 | AB -10000001,giam 95.62%,
+Hai ben deu co co hoi tan cong,1,Minimax,"(8,5)",10000000,13,0.003558
+Hai ben deu co co hoi tan cong,1,Alpha-Beta,"(8,5)",10000000,13,0.003354
+Hai ben deu co co hoi tan cong,1,So sanh,"MM (8,5) | AB (8,5)",MM 10000000 | AB 10000000,giam 0.00%,
+Hai ben deu co co hoi tan cong,2,Minimax,"(8,5)",10000001,145,0.037758
+Hai ben deu co co hoi tan cong,2,Alpha-Beta,"(8,5)",10000001,24,0.006562
+Hai ben deu co co hoi tan cong,2,So sanh,"MM (8,5) | AB (8,5)",MM 10000001 | AB 10000001,giam 83.45%,
+Hai ben deu co co hoi tan cong,3,Minimax,"(8,5)",10000002,1489,0.399362
+Hai ben deu co co hoi tan cong,3,Alpha-Beta,"(8,5)",10000002,144,0.039758
+Hai ben deu co co hoi tan cong,3,So sanh,"MM (8,5) | AB (8,5)",MM 10000002 | AB 10000002,giam 90.33%,
+Nhieu nhanh hop le,1,Minimax,"(2,6)",10000000,13,0.00314
+Nhieu nhanh hop le,1,Alpha-Beta,"(2,6)",10000000,13,0.0031
+Nhieu nhanh hop le,1,So sanh,"MM (2,6) | AB (2,6)",MM 10000000 | AB 10000000,giam 0.00%,
+Nhieu nhanh hop le,2,Minimax,"(2,6)",10000001,121,0.035345
+Nhieu nhanh hop le,2,Alpha-Beta,"(2,6)",10000001,22,0.008834
+Nhieu nhanh hop le,2,So sanh,"MM (2,6) | AB (2,6)",MM 10000001 | AB 10000001,giam 81.82%,
+Nhieu nhanh hop le,3,Minimax,"(2,6)",10000002,1321,0.368401
+Nhieu nhanh hop le,3,Alpha-Beta,"(2,6)",10000002,130,0.034467
+Nhieu nhanh hop le,3,So sanh,"MM (2,6) | AB (2,6)",MM 10000002 | AB 10000002,giam 90.16%,

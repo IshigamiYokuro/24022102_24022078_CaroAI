@@ -1,0 +1,1 @@
+# Project này chỉ dùng thư viện chuẩn của Python, không cần cài thêm thư viện ngoài.
